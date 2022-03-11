@@ -1,0 +1,23 @@
+{
+  "name": "fetch.async.await",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisLockley/fetch.async.await.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisLockley/fetch.async.await/issues"
+  },
+  "homepage": "https://github.com/ChrisLockley/fetch.async.await#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.2"
+  },
+  "type": "module"
+}
